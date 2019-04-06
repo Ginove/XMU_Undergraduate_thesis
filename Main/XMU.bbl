@@ -1,0 +1,31 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[刘海洋(2013)]{刘海洋2013latex}
+刘海洋.
+\newblock LATEX 入门\allowbreak[J].
+\newblock 电子工业出版社, 北京, 2013.
+
+\bibitem[吴凌云\ 等(2018)吴凌云, 江疆, 王越, 刘海洋, 李延瑞,
+  陈之初, 李清, and 黄晨成]{CTEX}
+吴凌云, 江疆, 王越, 等.
+\newblock CTEX 宏集手册\allowbreak[M].
+\newblock [出版地不详: 出版者不详], 2018.
+
+\bibitem[余钰炜(2016)]{XMU}
+余钰炜.
+\newblock 厦门大学博士学位模板\allowbreak[J].
+\newblock 2016.
+
+\bibitem[zpxing et~al.(2017)zpxing, Frogge, liwenjun, lijian605, and
+  gprsnl]{lshort-zh-cn}
+ZPXING, FROGGE, LIWENJUN, et~al.
+\newblock lshort-zh-cn\allowbreak[M].
+\newblock [S.l.: s.n.], 2017.
+
+\end{thebibliography}
